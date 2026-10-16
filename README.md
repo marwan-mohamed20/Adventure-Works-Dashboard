@@ -1,2 +1,0 @@
-# Adventure-Works-Dashboard
-An interactive Power BI dashboard that analyzes AdventureWorks business performance across sales, customers, products, and returns. The report has a clean dark theme and a Home Page that links to each analysis page.
